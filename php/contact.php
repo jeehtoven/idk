@@ -117,8 +117,8 @@ if ($fill == "y") {
 
 function createDB() {
 	$servername = "localhost";
-	$username = "root";
-	$password = "sadida";
+	$username = "jeehtove_intelli";
+	$password = "intellimeans";
 
 	// Create connection
 	$conn = new mysqli($servername, $username, $password);
@@ -140,9 +140,9 @@ function createDB() {
 
 function createTable() {
 	$servername = "localhost";
-	$username = "root";
-	$password = "sadida";
-	$dbname = "idk";
+	$username = "jeehtove_intelli";
+	$password = "intellimeans";
+	$dbname = "jeehtove_intellimeans";
 
 	// Create connection
 	$conn = new mysqli($servername, $username, $password, $dbname);
@@ -176,9 +176,9 @@ function createTable() {
 
 function insertContact($fname, $lname, $email, $company, $size, $role, $phone, $country) {
 	$servername = "localhost";
-	$username = "root";
-	$password = "sadida";
-	$dbname = "idk";
+	$username = "jeehtove_intelli";
+	$password = "intellimeans";
+	$dbname = "jeehtove_intellimeans";
 	
 	$time = time();
 
