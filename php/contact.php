@@ -128,7 +128,7 @@ function createDB() {
 	} 
 
 	// Create database
-	$sql = "CREATE DATABASE IF NOT EXISTS idk";
+	$sql = "CREATE DATABASE IF NOT EXISTS jeehtove_intellimeans";
 	if ($conn->query($sql) === TRUE) {
 	    //echo "<center>Database created successfully.</center><br>";
 	} else {
