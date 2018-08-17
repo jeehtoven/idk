@@ -59,7 +59,7 @@
 
           <div class="inner cover">
             <h1 class="cover-heading">Imagine intelligently.</h1>
-            <p class="lead">Innovation builds tomorrow. See how IDK reshapes business by extending capabilities, loosens teams up to be more creative and strategic, and helps the organization achieve more. Whether it's creating the next big thing, personalizing customer experiences, or redefining the business process, we can help.</p>
+            <p class="lead">Innovation builds tomorrow. See how Intellimeans reshapes business by extending capabilities, loosens teams up to be more creative and strategic, and helps the organization achieve more. Whether it's creating the next big thing, personalizing customer experiences, or redefining the business process, we can help.</p>
             <p class="lead">
               <a href="php/features.php" class="btn btn-lg btn-default">Learn more</a>
             </p>
